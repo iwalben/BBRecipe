@@ -1,0 +1,16 @@
+//
+//  BeePrefixHeader.pch
+//  Dishes
+//
+//  Created by Roddick on 2019/11/20.
+//  Copyright © 2019 Roddick. All rights reserved.
+//
+
+#ifndef BeePrefixHeader_pch
+#define BeePrefixHeader_pch
+
+#import "BEECommonUIKit.h"
+#import "BEEVendorKit.h"
+#import "BEEUIMacro.h"
+
+#endif /* BeePrefixHeader_pch */

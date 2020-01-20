@@ -1,0 +1,4458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dishes</key>
+	<dict>
+		<key>data</key>
+		<array>
+			<dict>
+				<key>imageName</key>
+				<string>pho_菜1</string>
+				<key>title0</key>
+				<string>【热炒】油焖笋</string>
+				<key>title1</key>
+				<string>材料：笋，葱，酱油</string>
+				<key>title2</key>
+				<string>发布：张星星的小星星</string>
+				<key>title3</key>
+				<string>收藏人数：1229</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>pho_菜1</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>油焖笋</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>xinde</key>
+					<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>竹笋</key>
+							<string>3根</string>
+						</dict>
+						<dict>
+							<key>酱油</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>盐</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>白糖</key>
+							<string>1茶匙（5g）</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_菜2</string>
+				<key>title0</key>
+				<string>【热炒】菠萝饭</string>
+				<key>title1</key>
+				<string>材料：熟米饭，鲜菠萝，鸡蛋</string>
+				<key>title2</key>
+				<string>发布：小泛光</string>
+				<key>title3</key>
+				<string>收藏人数：90</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>pho_菜2</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>菠萝饭</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>xinde</key>
+					<string>一、香米应蒸得稍干一些，这样制成的炒饭才好吃；椰汁水和米的比例比平时蒸米用的水要略少些就行，蒸出的米会稍硬些。
+二、有过敏史的孩子最好不要吃。菠萝中含有一种致敏物质——菠萝朊酶，而盐水能破坏其致敏结构，所以菠萝切开后要在盐水中浸泡一下。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>菠萝</key>
+							<string>1根</string>
+						</dict>
+						<dict>
+							<key>酱油</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>盐</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>炒米</key>
+							<string>300克</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.将面团的所有材料混合成团，揉至表面光滑，盖上一层保鲜膜，发酵40min。
+2.制作菠萝皮：将黄油和细糖打发，将蛋液加入，混合均匀后，将面粉和奶粉筛入，制成菠萝皮。
+3.将发酵好的面团和制作好的菠萝皮都平均分成6份，揉圆松弛15min。
+4.将菠萝皮压薄，包入面团，用刀在表面划出菱形的格子，醒发50min，进行烘烤。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_菜3</string>
+				<key>title0</key>
+				<string>【热烧】红烧肉</string>
+				<key>title1</key>
+				<string>材料：五花肉，葱，姜，蒜</string>
+				<key>title2</key>
+				<string>发布：张形成</string>
+				<key>title3</key>
+				<string>收藏人数：10</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>pho_菜3</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>红烧肉</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>xinde</key>
+					<string>红烧肉也是我的一道拿手菜。每逢节日必有大群吃友吵着要我做一大盆红烧肉给他们解馋，MM们在我的红烧肉面前也会主动放弃减肥计划。（呵呵，有点自吹自擂了哈。）这一切说明我的红烧肉做得的确不错呢！ 今天，我就将自己制作这道红烧肉的制作方法和窍门与大家分享一下，希望大家能够在家中做出最最美味、最最解馋的红烧肉来。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>五花肉</key>
+							<string>200克</string>
+						</dict>
+						<dict>
+							<key>酱油</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1、五花肉洗净，切4厘米见方的块备用。
+2、葱切大段、姜切片、蒜剥好备用。
+3、用纱布将大料、花椒、桂皮包好封好口备用。
+4、锅中做少许油，凉油时下入白糖用铲子慢慢炒制。
+5、锅中的糖变成深红色时烹入酱油、下入切好的五花肉。
+6、不停地煸炒五花肉至糖色裹匀并微微出油。
+7、下入60度左右的温水至刚好没过肉。
+8、下料酒、放入香料包后大火做开。
+9、盖盖变小火慢慢炖至五花肉9成熟。
+10、入盐和少许糖调味后继续焖至五花肉松软入味。
+11、捡去香料包，大火将汤汁收到红亮浓稠即可出锅食用。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_菜4</string>
+				<key>title0</key>
+				<string>【油炸】素卷</string>
+				<key>title1</key>
+				<string>材料：红肠丝，胡萝卜丝，芹菜丝</string>
+				<key>title2</key>
+				<string>发布：张星星的小星星</string>
+				<key>title3</key>
+				<string>收藏人数：1</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>pho_菜4</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>素卷</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>xinde</key>
+					<string>1.搓面粉搓成面包糠狀的时候搓到面粉淡黄色就不要再搓了。
+2.用指尖搓面粉和搓粉团的时候不要把黄油搓溶了，不然烤出来的酥卷就不酥脆了。
+3.一定要用冰水。
+4.壓粉团不要壓太簿或太厚，壓成0.5cm左右就可以了。
+5.一定要把香腸擦干叉小孔，也要把包好香腸的粉团叉小孔，不然烤出来的酥卷会爆开。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>红肠丝</key>
+							<string>3根</string>
+						</dict>
+						<dict>
+							<key>胡萝卜丝</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>芹菜丝</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>面粉</key>
+							<string>5茶匙（25g）</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.把面粉和鹽一起篩进碗里，把黄油切成小塊加进面粉里。
+2.用指尖搓面粉搓成面包糠狀，加进冰水，搓成粉团。
+3.把粉团壓成長方形大約20*15cm
+4.香腸洗好，擦干，用叉子叉一些小孔。
+5.用粉团包住香腸，包一層就可以，边边塗上蛋汁封好。
+6.用刀把两边多出来的粉团切掉，把香腸卷切成3塊，再用叉子在表面叉一些小孔，在表面塗上蛋汁。
+7.放进220℃的烤箱，烤20-25分钟即可。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_菜5</string>
+				<key>title0</key>
+				<string>【水煮】水煮罗非鱼</string>
+				<key>title1</key>
+				<string>材料：黄豆芽  麻辣鱼调料 罗非鱼</string>
+				<key>title2</key>
+				<string>发布：张星星的小星星</string>
+				<key>title3</key>
+				<string>收藏人数：18</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>pho_菜5</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>水煮罗非鱼</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>小宝的署假带着他去湖北看爷爷奶奶，然后又去了重庆看外婆，非常开心的是老人们身体都很好，两家哥哥妹妹们的生活也都很美满。本想出去转转拍拍，可不是暴雨就是暴热，找了个借口：冬天再回去拍。 这一个多月吃完湖北美食又吃重庆美味，最大的满足了味觉的刺激，唯一不足的是胖了一圈，回来减肥！哼哼！ 记得妹夫和妹妹恋爱时是不会做饭的，来我家后受到俺妈妈这大厨的熏陶，加上重庆人都好吃，据说重庆男人为了拴住重庆美女的心，大多会烧一手好菜。他们婚后，掌勺的就是妹夫，打杂的就是妹妹了。他俩天天变换着花样做地道重庆美味给我吃。 罗非鱼，也叫非洲鲫鱼，本是很普通的鱼，平常在深圳就极少会买来吃，可经过妹夫这么一煮，就美味无敌了</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>黄豆芽</key>
+							<string>100克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>麻辣鱼调料</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>罗非鱼</key>
+							<string>6条</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1、鱼洗净对剖两片备用。
+2、葱洗净切2寸段，红椒斜切片，黄豆芽去根洗净备用。
+3、钞锅放植物油烧热，下姜片蒜片、干辣椒段、花椒粒炒香，再把水煮鱼调料倒入一起翻炒几下，出香味。
+4、加适量清水煮开成汤底。
+5、把汤底转入不锈钢大盆里继续煮（为了方便直接上桌），加入黄豆芽煮开，加入适量盐、鸡粉调味。
+6、把剖成两片的鱼放入接着煮。
+7、煮至鱼熟，把葱段、红椒丝放在面上即可上桌。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>s430336_155194389396290</string>
+				<key>title0</key>
+				<string>花开香肠菇</string>
+				<key>title1</key>
+				<string>材料：金针菇  香肠 粉丝</string>
+				<key>title2</key>
+				<string>发布：张星星的小星星</string>
+				<key>title3</key>
+				<string>收藏人数：78</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>s430336_155194389396290</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>花开香肠菇</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>高大上菜【花开富贵香肠菇】寓意吉祥，好吃开胃，做法超简单！
+在蒸制时，金针菇和粉丝吸收香肠的咸香和肉香，加上蒜蓉的加入，别具风味。
+使用了红、白、绿的菜相配，荤素搭配，恰似一朵花开，寓意年年像花开一样繁茂，富贵昌盛。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>香肠</key>
+							<string>100克</string>
+						</dict>
+						<dict>
+							<key>金针菇</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>在蒸制时，金针菇和粉丝吸收香肠的咸香和肉香，加上蒜蓉的加入，别具风味。
+使用了红、白、绿的菜相配，荤素搭配，恰似一朵花开，寓意年年像花开一样繁茂，富贵昌盛。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1456100243367</string>
+				<key>title0</key>
+				<string>【水煮】白菜豆腐汤</string>
+				<key>title1</key>
+				<string>材料：白菜叶、卤水豆腐、粉丝</string>
+				<key>title2</key>
+				<string>发布：张星星的小星星</string>
+				<key>title3</key>
+				<string>收藏人数：8</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1456100243367</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>白菜豆腐汤</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>这道白菜豆腐汤，制作非常简单，可以说零失败。口感鲜美，营养价值也高。非常适合现在这个干燥的季节食用。 大白菜含有大量的粗纤维，可促进肠壁蠕动，帮助消化，防止大便干燥，促进排便，稀释肠道毒素，既能治疗便秘，又有助于营养吸收。其味道清爽，开胃健脾，富含蛋白质、脂肪、多种维生素及钙、磷、铁等矿物质，常食有助于增强机体免疫功能，对减肥健美也有帮助。 豆腐为补益清热养生食品，常食可补中益气、清热润燥、生津止渴、清洁肠胃。更适于热性体质、口臭口渴、肠胃不清、热病后调养者食用</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>白菜叶</key>
+							<string>100克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>卤水豆腐</key>
+							<string>300克</string>
+						</dict>
+						<dict>
+							<key>粉丝</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>第一步：准备食材。白菜叶适量、卤水豆腐1小块、香葱适量、粉丝适量。
+
+第二步：将白菜叶切成块、豆腐切块、香葱切末、粉丝泡软备用。
+
+第三步：锅中倒入适量的水，大火烧开后，将白菜叶、豆腐、粉丝放入锅中。（最好用砂锅来炖）
+
+第四步：待锅中再次煮开后，转小火炖2分钟，然后放入1小勺盐调味。关火后再淋少许香油，撒少许香葱碎即可。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1517049028366.jpg@288w_216h_99q_1e_1c</string>
+				<key>title0</key>
+				<string>三杯鸡</string>
+				<key>title1</key>
+				<string>材料：鸡腿、米酒、麻油</string>
+				<key>title2</key>
+				<string>发布：张星星的小星星</string>
+				<key>title3</key>
+				<string>收藏人数：67</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1517049028366.jpg@288w_216h_99q_1e_1c</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>三杯鸡</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>口感鲜美，营养价值也高。非常适合现在这个干燥的季节食用。其味道清爽，开胃健脾，富含蛋白质、脂肪、多种维生素及钙、磷、铁等矿物质，常食有助于增强机体免疫功能，对减肥健美也有帮助。 豆腐为补益清热养生食品，常食可补中益气、清热润燥、生津止渴、清洁肠胃。更适于热性体质、口臭口渴、肠胃不清、热病后调养者食用</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>米酒</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>鸡腿</key>
+							<string>300克</string>
+						</dict>
+						<dict>
+							<key>粉丝</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>第一步：姜片用麻油爆香，让姜片至微卷。
+
+第二步：鸡肉放进去，煎半熟（鸡肉切自己喜欢的大小即可）。
+
+第三步：把所有酱料倒进去，拌炒一下，再稍微闷一下至鸡肉全熟
+
+第四步：待锅中再次煮开后，转小火炖2分钟，然后放入1小勺盐调味。关火后再淋少许香油，撒少许香葱碎即可。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1509199309574</string>
+				<key>title0</key>
+				<string>蒜蓉蒸虾</string>
+				<key>title1</key>
+				<string>材料：虾、蒜蓉酱、蒜</string>
+				<key>title2</key>
+				<string>发布：张星星的小星星</string>
+				<key>title3</key>
+				<string>收藏人数：35</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1509199309574</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>蒜蓉蒸虾</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>1，虾要新鲜，大只
+
+2，开虾时注意手指安全
+
+3，蒜蓉酱味道不易过咸，如蒸好不够咸，可淋一些咸味生抽
+
+4，蒸的时间不宜过长，虾太老不好吃，口感会变硬，虾很容易熟8-10分钟足矣
+
+5，蒸的时候加一点泡好的粉丝，也不错，但粉丝需要切（剪）短一点5cm左右足够</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>虾</key>
+							<string>600克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>蒜蓉酱</key>
+							<string>300克</string>
+						</dict>
+						<dict>
+							<key>蒜</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.大虾先用水清洗，去须去脚，用剪刀逆剪去虾枪，拿出沙包，用剪刀剪开后背的壳或直接从中片开
+
+2.拨蒜，多拨，拨2头出来，切成末，别太碎
+
+3.锅里放色拉油，多少蒜就放多少油，用体积算，如一碗蒜就放一碗油，油烧热，关火（关键哦，关火哦）下入蒜爆一下，因为关了火，所以马上降温了，然后在蒜油里调味，+盐+糖+麻油+鲜味生抽，就成了蒜蓉酱，简单吧~其实很简单，但味道不打折扣，蒸虾，蒸鱼，蒸排骨，蒸娃娃菜，蒸牡蛎。。。。。。
+
+4.将蒜蓉酱调均匀淋在虾上，入蒸锅蒸8-10分钟即可，蒸好以后撒些葱花，也不用呲油了，因油都够了</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1509380185548</string>
+				<key>title0</key>
+				<string>肥牛金针菇</string>
+				<key>title1</key>
+				<string>材料：肥牛片  金针菇</string>
+				<key>title2</key>
+				<string>发布：Opasil</string>
+				<key>title3</key>
+				<string>收藏人数：25</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1509380185548</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>肥牛金针菇</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>如果喜欢辣的可多放些豆瓣酱，就不再需要放盐了，因为豆瓣酱很咸的，如果不太喜欢辣的，放的豆瓣酱少，就得适量再加些盐。做这道菜整个过程下来不到10分钟，可谓快手家常菜，非常适合上班急急忙忙的上班族哦。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>肥牛片</key>
+							<string>600克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>金针菇</key>
+							<string>300克</string>
+						</dict>
+						<dict>
+							<key>蒜</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.金针菇剪去根部洗净备用
+
+2.锅中放油，烧至六成热时依次放入蒜蓉和陴县豆瓣酱，炒30秒左右
+
+3.豆瓣酱炒香后放入600毫升的清水
+
+4.大火烧开后放入金针菇
+
+5.煮开后加入肥牛片，用筷子快速翻动，让肥牛片在汤中散开，煮1分钟，当肥牛片变色后关火，盛出后散上葱花即可</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1508858087089</string>
+				<key>title0</key>
+				<string>番茄龙利鱼</string>
+				<key>title1</key>
+				<string>材料：龙利鱼、番茄</string>
+				<key>title2</key>
+				<string>发布：Opasil</string>
+				<key>title3</key>
+				<string>收藏人数：5</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1508858087089</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>番茄龙利鱼</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>龙利鱼肉质鲜美，含有丰富的蛋白质，买来冷冻的龙利鱼片没有刺哦！这样不会吐刺的宝宝们也可以放心地吃~ 简单快速、无需过多的调料，最后用水淀粉勾出浓稠的欠汁，裹在鱼块的外面，很诱人哟！</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>龙利鱼</key>
+							<string>500克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>番茄</key>
+							<string>300克</string>
+						</dict>
+						<dict>
+							<key>蒜</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.龙利鱼解冻后用厨房纸擦干水分，切成1.5厘米见方的块，加入适量橄榄油、少量黑胡椒、姜丝腌制15分钟。
+
+2.番茄顶上用刀划十字，放在滚水中烫一下，这样很容易去皮哦！
+
+3.去皮的番茄切成小块备用
+
+4.腌制好的鱼肉放在滚水中烫熟然后捞出备用
+
+5.锅烧热后倒入适量油，放入切好的番茄，中火不断翻炒
+
+6.番茄炒出汁以后加入两勺番茄酱继续翻炒
+
+7.加入小半碗水
+
+8.水开后放入煮熟的龙利鱼块，煮2分钟左右
+
+9.小半碗水和玉米淀粉混合成水淀粉，然后倒入锅中大货煮开，收汁浓稠，然后加一小勺盐、一小撮糖调味出锅就好啦
+
+10.酸甜浓厚的汤汁和嫩滑的鱼肉，美味挡不住</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1508857592213</string>
+				<key>title0</key>
+				<string>干锅菜花</string>
+				<key>title1</key>
+				<string>材料：菜花、五花肉、姜、蒜</string>
+				<key>title2</key>
+				<string>发布：Opasil</string>
+				<key>title3</key>
+				<string>收藏人数：5</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1508857592213</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>干锅菜花</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>自己在家炒菜花操作不当很容易变成焖菜花，口感软烂，注意以下几点就能炒出焦香爽脆又入味的餐馆味道。
+
+第一，先用五花肉煸炒出油更能带出菜花的香味。
+
+第二，菜花一定要沥干水分。
+
+第三，一定要大火爆炒，略带焦色香味更浓。
+
+第四，加一勺酱油是点晴之笔。
+
+第五，盐一定要出锅前再放。
+
+菜花我没焯水，你如果喜欢焯水，记得时间要短，及时过凉再充分沥干，否则真就是五花肉焖菜花了。另外，菜花选我这种长柄带绿色的更地道好吃。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>菜花</key>
+							<string>500克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>五花肉</key>
+							<string>300克</string>
+						</dict>
+						<dict>
+							<key>蒜</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.菜花冲洗干净后用小刀沿着柄削成小朵，用淡盐水浸泡10分钟
+
+2.冲洗干净后充分晾干水分
+
+3.五花肉切片
+
+4.准备酱油一勺
+
+5.辣椒切圈、生姜切片，大蒜拍散后切小块
+
+6.五花肉入锅，加生姜，小火慢慢煽炒出油
+
+7.将肉推至一边，开大火，倒入菜花，略停30秒再翻炒几下
+
+8.盖上锅盖，调中火焗30秒
+
+9.这时候可以看出菜花头都有点焦色了，加入辣椒和大蒜碎
+
+10.炒匀后加入一勺酱油，翻炒均匀
+
+11.起锅前加入一勺盐炒匀即可</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1508855766766</string>
+				<key>title0</key>
+				<string>可乐鸡翅</string>
+				<key>title1</key>
+				<string>材料：鸡翅、可乐</string>
+				<key>title2</key>
+				<string>发布：Opasil</string>
+				<key>title3</key>
+				<string>收藏人数：52</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1508855766766</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>可乐鸡翅</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>1.第一步骤是去腥的，把鸡翅用清水加几片姜，几段葱，煮开，撇去浮沫（这就是血水被煮出来了，去腥），然后用清水冲干净，沥干（防止下一步煎的时候溅油）
+
+2.用冷水冲可使鸡皮更爽脆，口感好
+
+3.汤汁在快要收浓的时候收得速率会比开始快，所以看着差不多的时候要盯着点儿，不然煳了就功亏一篑了
+
+4.喜欢甜一点就用可口可乐，不太喜欢甜就百事可乐
+
+5.【为什么要先腌后焯】①更入味。已腌入味的生肉再焯6分钟至开锅并不会煮掉肉里的咸香
+
+②【错误解答】如果先焯后腌的话，焯水之后肉缩紧了，一来不容易入味，二来肉质容易变柴。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>鸡翅</key>
+							<string>500克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>可乐</key>
+							<string>1罐</string>
+						</dict>
+						<dict>
+							<key>蒜</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.在生鸡翅上划刀，用一勺老抽，两勺料酒腌至少两小时 【时间紧可省略腌制，但要划刀】
+
+2.锅中放水和葱姜片，鸡翅下锅煮开，捞出，用冷水冲洗掉浮沫，沥干
+
+3.小火，锅中放一点底油，将鸡翅煎成金黄
+
+4.一听可乐、一大勺料酒、一勺老抽，两勺生抽，加一点盐。加半支桂皮会更有风味。
+
+炖至汤汁还剩一碗水的量时，再尝尝咸淡，如需加盐再加少量盐，这样不容易出差错。
+
+5.炖至汤汁收浓，浓度看图，基本所有汁都裹在鸡翅上了，只剩约三勺汤汁了，出锅</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1574282754688</string>
+				<key>title0</key>
+				<string>卤水五花肉</string>
+				<key>title1</key>
+				<string>材料：五花肉、酒</string>
+				<key>title2</key>
+				<string>发布：Opasil</string>
+				<key>title3</key>
+				<string>收藏人数：22</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1574282754688</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>卤水五花肉</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>很多时候我们喜欢吃茶叶蛋，在卤的过程中不止放的仅是茶叶，而且还有其它调料，但又能不能卤肉类呢，结论是可以的，而且味道不错呢。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>五花肉</key>
+							<string>500克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>酒</key>
+							<string>1杯</string>
+						</dict>
+						<dict>
+							<key>蒜</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>一、五花肉解冻至室温，加冷水没至肉面，加精盐1小匙，搅匀，猪肉泡20分钟以除肉的雪藏味，泡好后吸干水切成长方块
+
+二、开锅，大中火，放入冰糖
+
+三、放入生姜约4片、红葱头约3粒
+
+四、冰糖烧溶后放入肉块，先煎一边，煎至焦香
+
+五、继续再焦，把肉的四边也煎至焦香
+
+六、把五花肉、姜片和红葱头都倒入小汤锅，再加生姜4片，加水高于肉面
+
+七、乌龙茶用泡茶器装好，放入汤里，再放袋泡红茶1包、八角、花椒1小匙、蚝油2大匙、生抽2大匙、老抽2大匙、胡椒粉1小匙、白酒1大匙、红糖粉1大匙、精盐1小匙入汤
+
+八、盖好盖子，转小火焖30分钟
+
+九、时间到后用筷子插入肉肉最厚的地方，测试肉是否熟透和柔软度，如果不够熟和柔软，就再焖长些时间，肉煮好后捞起晾凉，切片码盘
+
+十、置一小锅，放生抽1大匙、蚝油1大匙、生粉1大匙、清水1杯，烧时不断搅拌，烧到起大泡
+
+十一、淋在切了片的肉面上，开动</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1508857662088</string>
+				<key>title0</key>
+				<string>红烧带鱼</string>
+				<key>title1</key>
+				<string>材料：带鱼 红辣椒</string>
+				<key>title2</key>
+				<string>发布：Opasil</string>
+				<key>title3</key>
+				<string>收藏人数：20</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>1508857662088</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>红烧带鱼</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>xinde</key>
+					<string>很家常的红烧带鱼，从小到大不知吃了多少遍，却依旧喜欢，隔一段时间就要重温一次。 如果可以的话，多放点香葱，让带鱼吸收小葱的甜润和香气。味道浓郁，咸鲜中带着香辣的酱汁很是下饭
+1、用高度白酒腌制带鱼，可以非常有效的去除带鱼的腥味，效果比料酒好。
+
+2、带鱼要烧煮之前先煎炸过，可以使肉质不容易溃散（炸鱼的时候先不要急着翻动它，估计一面煎的差不多了，晃一下锅，鱼能离锅滑动的时候，再翻面）。
+
+3、生抽、老抽都有咸度，盐的量要适当控制一下，以防过咸。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>带鱼</key>
+							<string>500克</string>
+						</dict>
+						<dict>
+							<key>葱</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>红辣椒</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>蒜</key>
+							<string>1包</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.将带鱼去头去尾内脏处理干净后，切断，放入大碗中，撒入盐，姜片，淋入高度白酒拌匀后腌制10分钟
+
+2.锅中倒入油，加热至7成熟时，调成中火，将腌制好的带鱼块沥干水分（用厨房纸擦干）下油锅煎炸至表面金黄后，捞出，沥干油份。
+
+3.原锅倒出炸油，锅中留下约1大勺油，下姜片，葱段及红辣椒爆炒香味
+
+4.放入煎炸过的带鱼，倒入开水没过鱼身，续加入调味料（生抽、老抽、醋、糖、盐和胡椒粉），以中小火烧煮入味
+
+5.最后待汤汁变浓稠后即可熄火，不要都收干，红烧带鱼的汤汁拌米饭，非常好吃</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>shops</key>
+	<dict>
+		<key>data</key>
+		<array>
+			<dict>
+				<key>imageName</key>
+				<string>pho_guan1</string>
+				<key>title0</key>
+				<string>餐馆名称：墨鱼馆</string>
+				<key>title1</key>
+				<string>徐汇区天等路1191号</string>
+				<key>title2</key>
+				<string>发布：乐先生</string>
+				<key>title3</key>
+				<string>收藏人数：209</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>pho_guan1</string>
+					<key>title0</key>
+					<string>徐汇区</string>
+					<key>title1</key>
+					<string>墨鱼馆</string>
+					<key>title2</key>
+					<string>地址：徐汇区天等路1191号
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>reason</key>
+					<string>1、【素描餐厅】山林之间景色很好，石阶而上就到这家餐馆了。招牌菜榴莲烤鸡强烈推荐，榴莲的味道不是很重，调味刚刚好，配上旁边一叠佐料粉味道绝配。大盆菜是一大亮点，感觉直接用肉汁煮的，很入味咸味刚刚好。烤香菇也是亮点，沾的酱应该是鲜奶。藕夹是用两片藕夹肉煎的，味道很不错。
+                        
+2、来吃饭感觉就是棒，这家店也是想拔草很久了，去的时候是傍晚了,点了招牌榴莲鸡，真的很好吃，炸黄鱼也很不错，感觉下次应该早点来，坐靠窗位子这样感觉应该更不错，店里服务人员服务都很有礼貌，这一点是其他这个价位的餐厅没有的，下次还会光顾。
+
+3、冲着榴莲大肠去的，大肠洗的很干净吃起来一点异味都没有，配上榴莲的香气简直美味。最后想要评一下花菜缸豆，非常鲜炒鸡好吃，吃掉了三碗饭！
+
+4、老豆腐的汤很好喝，加了海南黄灯笼辣椒进去很开胃，味道也很鲜，老豆腐不硬这点要赞一下，绵软吸收汤汁很入味，每次来都要点。甜点是亮点，抹茶冰淇淋和布丁都很好吃。
+
+5、性价比非常非常高的一家创意菜！每一道都觉得很好吃！！每次有朋友来杭州玩我都想带他们去这家。真心又便宜又好吃。有很多烧烤类的，很适合年轻人。榴莲鸡很喜欢。烤蘑菇很好吃。还有烤小黄鱼也必须来一个！有次去，真的快把他们家所有的菜都点光了，吃了三个多小时，都挺好吃的。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_guan2</string>
+				<key>title0</key>
+				<string>餐馆名称：台湾人道素菜馆</string>
+				<key>title1</key>
+				<string>愚园路151-157号静安寺后栋2楼</string>
+				<key>title2</key>
+				<string>发布：张小姐的菜</string>
+				<key>title3</key>
+				<string>收藏人数：277</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>pho_guan2</string>
+					<key>title0</key>
+					<string>静安区</string>
+					<key>title1</key>
+					<string>台湾人道素菜馆</string>
+					<key>title2</key>
+					<string>地址：愚园路151-157号静安寺后栋2楼
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>reason</key>
+					<string>工作日的中午，这里人气还是蛮旺的。一个人点了一份招牌龙骨汤加油条，冷冷的天喝上一碗热乎乎的汤还是很满足的。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_guan3</string>
+				<key>title0</key>
+				<string>餐馆名称：大蔬无界(徐家汇店)</string>
+				<key>title1</key>
+				<string>地址：天平路392-1号</string>
+				<key>title2</key>
+				<string>发布：何先生</string>
+				<key>title3</key>
+				<string>收藏人数：12</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>pho_guan3</string>
+					<key>title0</key>
+					<string>徐家汇</string>
+					<key>title1</key>
+					<string>大蔬无界</string>
+					<key>title2</key>
+					<string>地址：天平路392-1号
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>0</string>
+					<key>reason</key>
+					<string>店面不大，如果要去一定要提前，否则大概率要等位。牛羊肉都是腌制的，其他的烧烤必备菜品基本都有，炙烤之后很入味，搭配蘸料来吃。整个店的就餐环境还算干净卫生</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_guan4</string>
+				<key>title0</key>
+				<string>餐馆名称：荟廷·晶萃(尚悦湾店)</string>
+				<key>title1</key>
+				<string>地址：银城路66号尚悦湾广场4层418a室</string>
+				<key>title2</key>
+				<string>发布：张小姐的菜</string>
+				<key>title3</key>
+				<string>收藏人数：712</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>pho_guan4</string>
+					<key>title0</key>
+					<string>陆家嘴</string>
+					<key>title1</key>
+					<string>荟廷·晶萃</string>
+					<key>title2</key>
+					<string>地址：银城路66号尚悦湾广场4层418a室
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>1、踏入餐厅，灯光是蓝色，餐具是蓝的，桌椅是蓝的，让人恍惚之间有到了爱琴海边的错觉，浪漫唯美的装修风格、充满欧洲风味的精致美食，处处洋溢着地中海风情，是情侣约会的不二之选。
+2、热气暖暖的餐厅内，炉火正旺，熊熊火苗把冬日的严寒驱退殆尽，宛如春天来临。
+3、走进了这个餐厅，就仿佛进入了一个富丽堂皇的宫殿。
+4、夏朵位于闹中取静的华山路，法式梧桐的点缀让餐厅更显典雅，也更富有异国情调。
+5、当你走进餐厅，迎接你的又是一番古色古香的中式格调，即便你知道他家做的是西餐，你还是会感叹于环境的宜人与精致。
+6、餐厅里每一个角落都是经过精心布置的，漂亮的灯具，温暖的抱枕，让在这儿进餐的人完全不会有西餐厅的拘束感。
+7、餐厅的法式田螺和奶油蘑菇汤都做得相当入味，算是其招牌菜，也是来这里就餐的情侣们最青睐的菜肴。如果你是一个爱浪漫的女生，那么夏朵绝对是要列入你的约会list的餐厅之一。
+8、推开餐厅那扇沉甸甸的大门，眼前展开的是一个风格奢华的阔大空间，天花板上华丽的水晶吊灯，每个角度都折射出如梦似幻斑斓彩光。
+9、华美的欧式桌椅、小巧精致吧台，都漆成纯白色，处处散发着贵族气息。
+10、这餐厅可真是漂亮啊，处处透露着金碧辉煌。
+11、每张桌子上都摆放着一个白色的瓷花瓶，花瓶里粉色的玫瑰柔美地盛开，与周围的幽雅环境搭配得十分和谐。
+12、这家餐厅充满着浪漫唯美的装修风格、充满欧洲风味的精致美食，处处洋溢着地中海风情，是情侣约会的不二之选。
+13、高级餐厅就是不一样，昏黄的灯光打在门口的椰子树上，真是让人觉得美好。
+14、这家餐厅昂贵得令人咂舌，但真是一家不虚此行的餐厅啊。充满了异国情调的装饰，让人流连忘返。
+15、这家餐厅令我赞叹不已，无论是服务还是美食，它都是一流的餐厅。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_guan5</string>
+				<key>title0</key>
+				<string>餐馆名称：潮堂(环球金融中心店)</string>
+				<key>title1</key>
+				<string>地址：世纪大道100号环球金融商务中心3层</string>
+				<key>title2</key>
+				<string>发布：张小姐的菜</string>
+				<key>title3</key>
+				<string>收藏人数：546</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>pho_guan5</string>
+					<key>title0</key>
+					<string>陆家嘴</string>
+					<key>title1</key>
+					<string>潮堂</string>
+					<key>title2</key>
+					<string>地址：世纪大道100号环球金融商务中心3层
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>蟹粉捞饭惊艳到我们，三个女生刚好，这个季节还是更喜欢直接吃蒸蟹；银鳕鱼秋葵酥趁热吃外酥里嫩，吃到第二个就点吃不下了；最喜欢红酒泡沫牛肉粒，好吃不腻。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>13c22155-d6e5-4879-8843-7a5ea7af0b8b</string>
+				<key>title0</key>
+				<string>餐馆名称：新世界丽笙45楼旋景餐厅</string>
+				<key>title1</key>
+				<string>地址：黄浦区南京西路88号新世界丽笙大酒店45楼近西藏中路</string>
+				<key>title2</key>
+				<string>发布：张小姐的菜</string>
+				<key>title3</key>
+				<string>收藏人数：435</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>13c22155-d6e5-4879-8843-7a5ea7af0b8b</string>
+					<key>title0</key>
+					<string>黄浦区</string>
+					<key>title1</key>
+					<string>旋景餐厅</string>
+					<key>title2</key>
+					<string>南京西路88号新世界丽笙大酒店45楼近西藏中路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>隐匿于“五星级”大酒店45楼的旋景餐厅，凌空208米，远观餐厅外型宛如一个“巨型宇宙飞船”，奇特的造型，全上海都屈指可数。
+
+乘坐一楼的直达电梯，短短十几秒间，便从喧闹的熙攘人群中瞬间抽离。走进旋景餐厅，高档餐厅所特有的静谧感，不由得让人走路的姿势都优雅起来。餐厅2小时旋转一周，在不经意的闲聊间，窗外的景色缓缓地变幻更替着，从南京路步行街的车水马龙、外滩的浦江秀美到东方明珠的雄伟状丽、金茂大厦的高耸入云等，将魔都360度全方位的城市美景一览无遗！外国食客随处可见，想必也是被这里的美景深深吸引。慵懒的沙发座、面向窗外的长桌、四人方桌等围绕餐厅一周，满足了不同客人的需求。桌上还贴心的准备了烛台，华灯初上的夜晚，浪漫的烛光、精致的美食、搭配上迷人的夜景，是“劈情操”的不二选择。
+
+餐厅的五层下午茶人气很旺！三明治、慕斯蛋糕、泡芙、水果等，模样精致、色彩斑斓、着实可爱。每周日中午还提供自助餐，菜品丰富，来自欧洲、日本、印度和中国的经典美味，每一款菜肴都充满着浓浓的当地风味。开放式的厨房位于整个餐厅的中央，客人品尝美食的同时，还能观赏厨艺表演。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>6f040af8-bdad-4175-b073-60961ed8525c</string>
+				<key>title0</key>
+				<string>餐馆名称：鸢尾天空法餐厅</string>
+				<key>title1</key>
+				<string>西藏北路198号大悦城北楼802-11近开封路</string>
+				<key>title2</key>
+				<string>发布：老吃客阿庆</string>
+				<key>title3</key>
+				<string>收藏人数：35</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>6f040af8-bdad-4175-b073-60961ed8525c</string>
+					<key>title0</key>
+					<string>静安区</string>
+					<key>title1</key>
+					<string>鸢尾天空法餐厅</string>
+					<key>title2</key>
+					<string>地址：上海静安区西藏北路198号大悦城北楼802-11近开封路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>鸢尾天空法餐厅，位于苏州河北，紧邻七浦路批发城，直接步行可达</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>53ec0249-7f64-481c-b81f-ff6122506901</string>
+				<key>title0</key>
+				<string>餐馆名称：周舍•经典海派菜</string>
+				<key>title1</key>
+				<string>苏虹路318弄16号虹桥丽宝广场L116近申武路</string>
+				<key>title2</key>
+				<string>发布：张小姐的菜</string>
+				<key>title3</key>
+				<string>收藏人数：35</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>53ec0249-7f64-481c-b81f-ff6122506901</string>
+					<key>title0</key>
+					<string>闵行区</string>
+					<key>title1</key>
+					<string>周舍•经典海派菜</string>
+					<key>title2</key>
+					<string>地址：闵行区苏虹路318弄16号虹桥丽宝广场L116近申武路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>周舍.经典海派菜的背后是周大师的多年匠心打造，还原食物天然，同时带来独特味觉享受，以品质的形式呈现在食客们的面前。周大师是上海经典海派菜领军人物，获得无数的奖励的他有着丰富的厨艺经验。海派菜除了上海传统本帮菜以外的创新菜，海纳百川的意思，而非“上海的派别”。上海是个移民城市，从20世纪三四十年代开始，上海菜系林立，菜系繁多，去粕留精，而后演变出具有上海独特风味的“海派菜”。周舍主打经典海派菜，并融入借鉴各地风味和中西融合的烹饪技法，加以改良提升。在传统的烹饪技法上用现代的手法去呈现，去演绎周舍品牌国际化的美食。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>0a55c4c4-53a4-42d8-8052-62e107f3445a</string>
+				<key>title0</key>
+				<string>餐馆名称：正宜丰</string>
+				<key>title1</key>
+				<string>天平路185号天平宾馆三楼近广元路</string>
+				<key>title2</key>
+				<string>发布：张小姐的菜</string>
+				<key>title3</key>
+				<string>收藏人数：35</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>0a55c4c4-53a4-42d8-8052-62e107f3445a</string>
+					<key>title0</key>
+					<string>徐汇区</string>
+					<key>title1</key>
+					<string>正宜丰</string>
+					<key>title2</key>
+					<string>地址：上海徐汇区天平路185号天平宾馆三楼近广元路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>有蟹有酒有茶香，可谓时尚，亦不失雅韵，带着那么点小资的情调……这是“正宜丰”包含的韵味和生活；
+
+店家以江浙沪菜、长江鲜和蟹宴为主，讲求精致和细腻，对此店家负责人陈慧表示：“选择江浙沪菜肴作为基础菜系，是为了将精致的传统饮食文化发扬光大，让更多的人品味‘平中出奇，怪中出雅，淡中出味’的饮食雅韵。”至于蟹宴是一种艺术，更一种品位。所以，正宜丰主推蟹宴是必然的，毕竟从王宝和走出来的陈慧，擅长的是蟹宴，他坚持用的原料，用真的态度、的思维、美味道去征服所有人。
+
+长江鲜是店家主推的另一特色，一年四季餐厅将根据时令的不同，推出当季为肥美的江鲜，其中南通镇江的鮰鱼是常用的主原料，其肉质之嫩滑，汤汁之鲜美是很多鱼不可代替的，再加上其精湛的刀工和烹饪技巧，足可以让食客能领略到为鲜美的长江鲜。
+
+说完菜肴，不得不说说正宜丰的厨师团队和服务团队，据陈慧介绍说，店家的主厨曾远去香港学习燕鲍翅的烹饪方法，在阳光名邸学习满汉全席、在安亭别墅学习精致菜肴、在上海宾馆学习长江鲜、在星级酒店学习厨房程序和管理，其非凡的技艺是不容小觑的。此外，店家的服务团队，都是有素养有内涵有热情的年轻人，尤其是服务部经理，曾于04年获得过涉外服务大赛一等奖，英语日语都非常之好，服务态度更是一流。
+
+在正宜丰有非常好的黄酒、茶叶和水墨画，只要你一走进餐厅，就能在餐厅的墙上看见一幅幅出自名家之手的水墨山水画，在隐约间领略到典雅的气息；还有酒架上摆放的8年蟹宴酒和20年花雕，茶柜里摆放的云南滇红、乌龙、安徽祁门。用陈慧的话说“我要将生活融入艺术，将艺术融入美食，将美食回归生活”，尽情的传播中华美食、共享香茗文化、结交天下朋友。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>1278501410okL1</string>
+				<key>title0</key>
+				<string>餐馆名称：老丰阁私味馆(远洋店)</string>
+				<key>title1</key>
+				<string>东大名路1171号远洋宾馆2楼近霍山路</string>
+				<key>title2</key>
+				<string>发布:   捷克夫</string>
+				<key>title3</key>
+				<string>收藏人数：35</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>1278501410okL1</string>
+					<key>title0</key>
+					<string>虹口区</string>
+					<key>title1</key>
+					<string>老丰阁私味馆</string>
+					<key>title2</key>
+					<string>地址：上海徐汇区天平路185号天平宾馆三楼近广元路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>位于远洋宾馆的“老丰阁”，主打本帮菜，兼做粤菜。环境既融入了江南水乡的雅致，又彰显涉外五星级酒店的豪华，菜品精美，连北方相声表演艺术家郭德纲、侯耀文 、师胜杰等到上海享用老丰阁的美味佳肴都竖起拇指，赞不绝口。
+
+推荐菜肴：
+“跳舞的茄子”，在业界早已声名远播，点缀在茄子上的木鱼花，受热后像鼓翅的蝴蝶“翩翩起舞”，形色兼有。
+
+餐厅的蓝莓鹅肝点击率非常的高，鲜嫩鹅肝，用进口蓝莓酱跟法国红酒腌制， 24小时内0°C-2°C冷鲜保藏的鹅肝，直接进入厨房，用略带酸甜的进口蓝莓酱，混合法国红酒，微微浸泡几十分钟，入口细滑，酸酸甜甜，带着鹅肝独有的鲜嫩，吃完一块还想再吃一块！
+
+推荐环境：　
+餐厅位于五星级远洋宾馆二楼，营业面积3000平方米左右，共有3个大小不同的宴会厅，适合不同的宴请，米色的主色调搭配上明亮的水晶吊灯把餐厅照耀的非常的明亮大气，推荐C厅里米白色沙发的雅座，舒适又雅静，适合朋友聚餐、情侣聚会。餐厅总共23间包房，设施比较齐全，部分包房带有独立的洗手间，休息区和和液晶电视，在老字号的“老丰阁”商务宴请，菜品环境都有保证！</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>c4870254-2003-4d4e-b79f-f4f2c6d3a439</string>
+				<key>title0</key>
+				<string>餐馆名称：星晨酒店(五角场店)</string>
+				<key>title1</key>
+				<string>黄兴路2009号近国定路</string>
+				<key>title2</key>
+				<string>发布:   捷克夫</string>
+				<key>title3</key>
+				<string>收藏人数：35</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>c4870254-2003-4d4e-b79f-f4f2c6d3a439</string>
+					<key>title0</key>
+					<string>杨浦区</string>
+					<key>title1</key>
+					<string>星晨酒店</string>
+					<key>title2</key>
+					<string>地址：上海杨浦区黄兴路2009号近国定路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>这家餐厅在杨浦区也算是小有名气了，开了很久，环境菜品以及服务都挺不错的</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>e34ee46b-5886-4e16-a7d5-1df27a949599</string>
+				<key>title0</key>
+				<string>餐馆名称：白公馆</string>
+				<key>title1</key>
+				<string>中春路7001号明谷科技园9号楼近中宜路</string>
+				<key>title2</key>
+				<string>发布:   捷克夫</string>
+				<key>title3</key>
+				<string>收藏人数：355</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>e34ee46b-5886-4e16-a7d5-1df27a949599</string>
+					<key>title0</key>
+					<string>闵行区</string>
+					<key>title1</key>
+					<string>白公馆</string>
+					<key>title2</key>
+					<string>地址：上海闵行区中春路7001号明谷科技园9号楼近中宜路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>白公馆是一家带有浓厚文化气息的经典淮扬菜餐厅，江鲜是一绝，白公馆的江鲜会让人不由得想起“倚櫂汀洲沙日晚，江鲜野菜桃花饭”。
+
+会馆原先是1920会馆，白崇禧的私人花园，现已搬迁至中春路的明谷科技园9号楼。搬迁后白公馆的装修比较现代简约，和之前复古风相差较大。白公馆的面积不大，大厅小巧精致，包房低调雅致，私密性很好。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>ea07ad53-9213-446f-89a5-0073eb9a63a8</string>
+				<key>title0</key>
+				<string>餐馆名称：逸道(思南公馆店)</string>
+				<key>title1</key>
+				<string>思南路61号近复兴中路</string>
+				<key>title2</key>
+				<string>发布:   捷克夫</string>
+				<key>title3</key>
+				<string>收藏人数：55</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>ea07ad53-9213-446f-89a5-0073eb9a63a8</string>
+					<key>title0</key>
+					<string>卢湾区</string>
+					<key>title1</key>
+					<string>逸道(思南公馆店)</string>
+					<key>title2</key>
+					<string>地址：上海卢湾区思南路61号近复兴中路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>逸道-新中式装修风格，装修中以茶经为序，融合了茶之具、茶之造、茶之器、茶之煮、茶之出、茶之略、茶之图的元素，无处不传递着悠远的中国茶文化。如果时间充裕，不妨在这方寸之间，焚茶闻香，来一场茶文化之旅。
+
+推荐菜肴：
+逸道慢煮雪花牛肉：采用中餐中比较少用的慢煮方式烹雪花牛肉，颜色红亮，牛肉酥烂入味，咸香可口。
+二十年花雕蒸长江鲥鱼：20年花雕？没看错，逸道就这么任性，用20年的花雕蒸活鲥鱼！酒香扑鼻，酒味醇厚不冲，鱼肉鲜美细嫩，入口即化，回味有点甘甜，一个字赞~
+滋补响螺汤：熬煮5小时以上，汤色清亮，鲜香可口。
+抹茶杏仁布丁：现磨南杏、北杏、美国大杏仁，5层过滤，再加入日本抹茶制成布丁，入口抹茶，回味杏仁，味道棒棒哒</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>e88197da-cc9c-40db-a56d-adf5aaf46a34</string>
+				<key>title0</key>
+				<string>餐馆名称：听云台国粹雅宴</string>
+				<key>title1</key>
+				<string>芙蓉江路77弄1号近仙霞路</string>
+				<key>title2</key>
+				<string>发布:   捷克夫</string>
+				<key>title3</key>
+				<string>收藏人数：5</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>e88197da-cc9c-40db-a56d-adf5aaf46a34</string>
+					<key>title0</key>
+					<string>长宁区</string>
+					<key>title1</key>
+					<string>听云台国粹雅宴</string>
+					<key>title2</key>
+					<string>地址：上海长宁区芙蓉江路77弄1号近仙霞路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>国粹雅宴深藏于居民楼内，拥有几千件百年古董家具更搬来故宫1:1的黄金龙椅、自带超大室内下沉式水池沙发还有琅琊榜同款围炉煮茶。不仅能喝茶还能吃到超奢料理。餐厅外墙刷成了徽派的灰色调。虽然外观很朴素，但其实却是一座1500+㎡超奢茶馆。餐厅将四季食物中国园林艺术，色彩美学搭配艺术相融合。以及运用皇帝内经讲述的药膳刨制法结合形成的听云台宴席标准，将食物与人文艺术结合呈现视觉上的冲击。另加上听云台独特的3D舞台让您体验前所未有的商宴招待。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>c9d6e1c2-e971-408d-a13f-0a138d2dd9cf</string>
+				<key>title0</key>
+				<string>餐馆名称：祖润•象山海鲜</string>
+				<key>title1</key>
+				<string>周家嘴路1229号近大连路</string>
+				<key>title2</key>
+				<string>发布:   捷克夫</string>
+				<key>title3</key>
+				<string>收藏人数：15</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>c9d6e1c2-e971-408d-a13f-0a138d2dd9cf</string>
+					<key>title0</key>
+					<string>虹口区</string>
+					<key>title1</key>
+					<string>祖润•象山海鲜</string>
+					<key>title2</key>
+					<string>地址：上海虹口区周家嘴路1229号近大连路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>祖润轩是一家私房粤菜、宁波土菜、茶艺、SPA结合的商务休闲会所，一二楼是茶室和餐厅，三四楼是SPA馆。观茶道表演，品中国名茶，听江南丝竹，尝特色菜肴，一站式服务，是养生、养心、养身的“三养”会所。
+
+菜品：
+主做养生粤菜，清淡，无味精、少盐少油，保证原汁原味。粤式煲汤以天然矿泉水，经过几个小时的精心慢炖而制成，滋补养生。推荐菜品：松茸竹荪长寿汤、**花炖花胶汤、佛跳墙、水晶虾饺皇等。
+
+茶道：
+茶道就是通过品茶活动来表现一定的礼节、人品、意境、美学观和精神思想的一种行为艺术。我国的产茶历史悠久，按制茶方法和加工方式划分，可以将我国的茶叶分为六大类：红茶、绿茶、黑茶、黄茶、清茶和白茶。中国自古已有神农发现茶叶的传说，不同的茶，其实具有不同的医学功效，有的可以帮助松弛神经，有的可养胃，增强人体抗寒能力，有的是帮助消化，去油腻等，既可养生，又可让味蕾一饱口福。
+
+SPA：
+SPA一词源于拉丁文“Solus Par Agula”，意指用水来达到健康，健康之水。在SPA过程中使用晶体石膏灯，可以有效增加负离子并创造出自然平衡的离子环境，让空气保持清新流通，并使人更有宁静的感觉。
+
+
+环境：
+店外种植很多竹子，绿意盎然，中式古朴雅致的装修风格，红木的多宝格和功夫茶台，舒缓的音乐，潺潺流水，沙发座椅的，靠窗位均以彩色的绢布隔开，彩色的靠垫，昏暗的灯光，非常舒适。
+13间中式装修风格，白色的墙壁，中式落地窗格，白色纱帘，外面是绿竹摇曳，部分餐厅有镭射灯，可以在墙壁上投射诗词和工笔画，分外雅致。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>edc0b2e3-ed8b-4a07-906e-73f2dc7a27cd</string>
+				<key>title0</key>
+				<string>餐馆名称：金虹源食府(吴中路店)</string>
+				<key>title1</key>
+				<string>吴中路682号金虹桥商务C座2层近虹许路</string>
+				<key>title2</key>
+				<string>发布:   捷克夫</string>
+				<key>title3</key>
+				<string>收藏人数：9</string>
+				<key>detail</key>
+				<dict>
+					<key>recommenddishes</key>
+					<dict>
+						<key>data</key>
+						<array>
+							<dict>
+								<key>imageName</key>
+								<string>pho_xincai</string>
+								<key>title0</key>
+								<string>【热炒】香菇扒青菜</string>
+								<key>title1</key>
+								<string>翠华餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_xincai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>香菇扒青菜</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>pho_newcai</string>
+								<key>title0</key>
+								<string>【热炒】家常油焖大虾</string>
+								<key>title1</key>
+								<string>麻辣小馆（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>pho_newcai</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>家常油焖大虾</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>竹笋</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>酱油</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>盐</key>
+											<string>少许</string>
+										</dict>
+										<dict>
+											<key>白糖</key>
+											<string>1茶匙（5g）</string>
+										</dict>
+										<dict>
+											<key>芝麻油</key>
+											<string>30克</string>
+										</dict>
+										<dict>
+											<key>料酒</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+										<dict>
+											<key>生抽</key>
+											<string>2茶匙（10ml）</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>imageName</key>
+								<string>2015040517125760839</string>
+								<key>title0</key>
+								<string>翠竹沙拉</string>
+								<key>title1</key>
+								<string>翠竹餐厅（上海）</string>
+								<key>detail</key>
+								<dict>
+									<key>imageName</key>
+									<string>2015040517125760839</string>
+									<key>title0</key>
+									<string>菜谱类</string>
+									<key>title1</key>
+									<string>翠竹沙拉</string>
+									<key>title2</key>
+									<string>由：中华小当家  发布于2019-11-19 12:01</string>
+									<key>like</key>
+									<string>1</string>
+									<key>xinde</key>
+									<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+									<key>material</key>
+									<array>
+										<dict>
+											<key>黄瓜</key>
+											<string>3根</string>
+										</dict>
+										<dict>
+											<key>胡萝卜</key>
+											<string>1根</string>
+										</dict>
+										<dict>
+											<key>芹菜</key>
+											<string>1根</string>
+										</dict>
+									</array>
+									<key>steps</key>
+									<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+					<key>imageName</key>
+					<string>edc0b2e3-ed8b-4a07-906e-73f2dc7a27cd</string>
+					<key>title0</key>
+					<string>闵行区</string>
+					<key>title1</key>
+					<string>金虹源食府</string>
+					<key>title2</key>
+					<string>地址：上海闵行区吴中路682号金虹桥商务C座2层近虹许路
+由 大淘客  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>reason</key>
+					<string>金虹源食府位于金虹桥商务C场旁边，环境宽阔、整洁、服务态度好，经典本帮饭菜味道好并有多种海鲜，现挑现做，满足客户的需要，并且还有宵夜，适合商务宴请和家庭聚餐，朋友聚会，可以免费布置小型会场。提供服务：可以刷卡、免费停车位、投影仪wlfl等等。</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>newestdishes</key>
+	<dict>
+		<key>data</key>
+		<array>
+			<dict>
+				<key>imageName</key>
+				<string>pho_xincai</string>
+				<key>title0</key>
+				<string>【热炒】香菇扒青菜</string>
+				<key>title1</key>
+				<string>翠华餐厅（上海）</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>pho_xincai</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>香菇扒青菜</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>xinde</key>
+					<string>1、加入少许水发香菇，菜的味道会更鲜美。
+2、除了用鲜笋外，也可用袋装冬笋。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>竹笋</key>
+							<string>3根</string>
+						</dict>
+						<dict>
+							<key>酱油</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>盐</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>白糖</key>
+							<string>1茶匙（5g）</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1、鲜笋剥去外层硬壳，切去老根，用刀背拍松后切成段。
+2、锅内入油加热，待油7分热时，倒入笋段段煸炒几分钟。
+3、调入料酒，生抽和糖翻炒几下，加盖焖3分钟左右。
+4、打开锅盖，调入鸡精，撒入香葱花即可。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>pho_newcai</string>
+				<key>title0</key>
+				<string>【热炒】家常油焖大虾</string>
+				<key>title1</key>
+				<string>麻辣小馆（上海）</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>pho_newcai</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>家常油焖大虾</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>xinde</key>
+					<string>1、虾的水分一定要沥干，因为在煸炒时放过盐后虾会出一些水，如果之前不沥干炒出的菜品就会很水。
+
+2、姜丝可以稍微多放一些，即可以去除虾的腥气，也可以平衡虾的寒气。</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>鲜虾</key>
+							<string>1斤</string>
+						</dict>
+						<dict>
+							<key>酱油</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>盐</key>
+							<string>少许</string>
+						</dict>
+						<dict>
+							<key>白糖</key>
+							<string>1茶匙（5g）</string>
+						</dict>
+						<dict>
+							<key>芝麻油</key>
+							<string>30克</string>
+						</dict>
+						<dict>
+							<key>料酒</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+						<dict>
+							<key>生抽</key>
+							<string>2茶匙（10ml）</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1、去除虾线。沿虾背脊剪开一条口子，取出虾线。将去除虾线的虾用水洗净，并将水沥干。
+
+2、姜切丝，备用。
+
+3、热锅凉油，待油八成热放入姜丝煸炒，爆出香味后倒入大虾煸炒，虾变红后加入盐和糖继续煸炒，盖锅盖焖一下，然后倒入适量番茄酱翻炒均匀就可以出锅了。</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>2015040517125760839</string>
+				<key>title0</key>
+				<string>翠竹沙拉</string>
+				<key>title1</key>
+				<string>翠竹餐厅（上海）</string>
+				<key>detail</key>
+				<dict>
+					<key>imageName</key>
+					<string>2015040517125760839</string>
+					<key>title0</key>
+					<string>菜谱类</string>
+					<key>title1</key>
+					<string>翠竹沙拉</string>
+					<key>title2</key>
+					<string>由：中华小当家  发布于2019-11-19 12:01</string>
+					<key>like</key>
+					<string>1</string>
+					<key>xinde</key>
+					<string>沙拉作为直接入口的生鲜食材，一定要做到一定的很高的卫生标准。市面上出售的水果和蔬菜买回家后，吃之前一定要清洗干净，有些菜是一层包一层的，最好将每一片彩页都拨开洗净，尤其是要生吃的话，更是要将每片菜叶都清洗干净。菜叶清洗之后可以用厨房专用的餐巾洗净清洗过程当中留在叶片上的水分。因为干的菜和湿的菜吃起来感觉是完全不同的。用干的菜制作的沙拉，其中沙拉酱的用量也可以大大减少，所以把才表面弄干是必要步骤</string>
+					<key>material</key>
+					<array>
+						<dict>
+							<key>黄瓜</key>
+							<string>3根</string>
+						</dict>
+						<dict>
+							<key>胡萝卜</key>
+							<string>1根</string>
+						</dict>
+						<dict>
+							<key>芹菜</key>
+							<string>1根</string>
+						</dict>
+					</array>
+					<key>steps</key>
+					<string>1.将所需材料备好，各种蔬菜洗净
+2.黄瓜切成均匀的段
+3.用利刀轻轻划分区域，形成竹筒状，将多余的黄瓜肉用刀尖划出，外皮如果不喜欢麻麻的样子，可以用刀削去，这样就更加像光滑的竹筒了
+4.胡萝卜、青红辣椒、芹菜切成细小的丁
+5.挤入适量的丘比沙拉酱
+6.搅拌均匀
+7.取适量沙拉填入黄瓜筒中，“翠竹沙拉”大功告成</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
